@@ -1,0 +1,9 @@
+.poke-list {
+
+    position: absolute;
+    width: 275px;
+    height: 250px;
+    top: 100px;
+    left: 500px;
+    background-color: lightcyan;
+}
