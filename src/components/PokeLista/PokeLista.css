@@ -1,0 +1,12 @@
+.poke-lista {
+    position: absolute;
+    width: 23%;
+    height: 60%;
+    top: 11%;
+    left: 25%;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.16);
+}

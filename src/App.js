@@ -1,14 +1,16 @@
 import React from 'react';
 import "./App.css";
-import PokeList from './components/PokeList';
+import Button from './components/Button/button';
+import PokeTela from './components/PokeTela/poketela';
+import PokeLista from './components/PokeLista/pokelista';
 
-const App = () => {
- // const message = "Hello World!";
-  
+const App = () => { 
   return (
     <>
         <div className='container'>
-        <PokeList />
+        <PokeTela />
+        <Button />
+        <PokeLista />
         </div>;
         
      </>
