@@ -1,12 +1,21 @@
-.poke-lista {
-    position: absolute;
-    width: 23%;
-    height: 60%;
-    top: 11%;
-    left: 25%;
-    background-color: #fff;
-    background-repeat: no-repeat;
-    border: none;
-    border-radius: 5px;
-    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.16);
+.buttonlist { 
+    width: 100%;
+    height: 10%;
+    padding-left: 0%;
+    background-color: #a3e6ff;
+    
+}
+
+.buttonlistnext{
+    width: 50%;
+    height: 40%;
+    margin-top: 10%;
+    
+}
+
+.buttonlistback{
+    width: 50%;
+    height: 40%;
+    margin-top: 10%;
+    
 }
