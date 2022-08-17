@@ -7,7 +7,7 @@
 Descrição
 - Esse projeto foi feito para o processo seletivo da empresa IterisConsultoria, ele consiste em criar uma pokédex usando uma api e um framework chamado Reac Js.
 
-#Pré-requisitos
+# Pré-requisitos
  Antes de iniciar, se assegure que possui os requisitos abaixo:
 
 - Git
@@ -16,7 +16,7 @@ Descrição
 # Compilação/Configuração
 Para compilar/configurar este projeto, siga as seguintes etapas:
 
-#Clone o repositório na sua máquina usando: 
+# Clone o repositório na sua máquina usando: 
 $ git clone https://github.com/andrewklayver/pokedex-desafio.git
 
 
