@@ -5,9 +5,9 @@
 - Framework: ReactJS
 
 Descrição
-- Esse projeto foi feito para o processo seletivo da empresa IterisConsultoria, ele consiste em criar uma pokédex
+- Esse projeto foi feito para o processo seletivo da empresa IterisConsultoria, ele consiste em criar uma pokédex usando uma api e um framework chamado Reac Js.
 
-#cPré-requisitos
+#Pré-requisitos
  Antes de iniciar, se assegure que possui os requisitos abaixo:
 
 - Git
