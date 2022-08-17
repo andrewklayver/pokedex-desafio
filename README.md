@@ -25,11 +25,12 @@ Abra o arquivo no seu visual studio code, ou em outro programa usado para progra
 - Instalação/Execução
 Para instalar/executar este projeto, siga as seguintes etapas:
 
-- 'Instale as dependências'
+- Instale as dependências
+
 $ npm install / npm i
 
-- 'Inicie o React'
+- Inicie o React
 $ npm start
 
-A aplicação vai iniciar no seu navegador
+## A aplicação vai iniciar no seu navegador
 
